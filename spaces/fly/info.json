@@ -1,0 +1,27 @@
+{
+  "blockchain": "etherscan",
+  "brief": "链接Dex和Cex，贡献市场7%的流动性",
+  "intro": "链接Dex和Cex，贡献市场7%的流动性，牛逼plus",
+  "totalsupply": "210000",
+  "audit_agency": "知道创宇",
+  "audit_report": "http://zhidaochuangyu.org/fly.pdf",
+  "website": "http://franklin.finance",
+  "mining": [
+    {
+      "pool": "yCRV",
+      "url": "http://franklin.finance/staking",
+      "amout": "312454.93"
+    },
+    {
+      "pool": "$AAPL-ETH（uni-v2）",
+      "url": "http://franklin.finance/staking",
+      "amount": "156227.46"
+    }
+  ],
+  "resource": {
+    "twitter": "https://twitter.com/fly",
+    "discord": "https://discord.com/fly",
+    "facebook": "https://facebook.com/fly"
+  }
+}
+  

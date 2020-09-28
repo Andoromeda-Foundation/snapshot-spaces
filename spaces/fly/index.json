@@ -1,0 +1,15 @@
+{
+  "key": "FLY",
+  "name": "FLY",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "FLY",
+  "defaultView": "all",
+  "address": "0x7E522119A2a5929C5651552aB1aC35EfF422218C",
+  "token": "0x7E522119A2a5929C5651552aB1aC35EfF422218C",
+  "core": [],
+  "min": 0,
+  "invalid": [],
+  "visible": true
+}
+  
