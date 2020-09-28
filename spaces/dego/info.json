@@ -1,0 +1,30 @@
+{
+  "key": "dego",
+  "blockchain": "etherscan",
+  "brief": "区块链上的乐高",
+  "intro": "DEGO equals to LEGO in the DeFi world. With each DeFi protocol as a brick, like Stable Coin (DAI), Lending (Aave, Compound), DEX (Uniswap and Balancer), Derivatives (Synthetix), Insurance (Nexus Mutual), we will build a new dApp to enhance the value of DeFi, creating diversified investment portfolios and generating substantial financial returns for users. DEGO will become the entrance to the future of financial services.",
+  "totalsupply": "21000000",
+  "audit_agency": "",
+  "audit_report": "",
+  "website": "https://dego.finance/home",
+  "mining": [
+    {
+      "pool": "DEGO-ETH UNI-V2 LP",
+      "url": "https://dego.finance/home",
+      "amout": "4200000"
+    },
+    {
+      "pool": "DEGO-UNI UNI-V2 LP",
+      "url": "https://dego.finance/home",
+      "amout": "262500 "
+    }
+  ],
+  "resource": {
+    "twitter": "https://twitter.com/dego_finance",
+    "discord": "https://discord.com/invite/xJjSJrd",
+    "medium": "https://medium.com/@dego_finance",
+    "telegram": "https://t.me/dego_finance",
+    "github": "https://github.com/dego-labs"
+  }
+}
+  
