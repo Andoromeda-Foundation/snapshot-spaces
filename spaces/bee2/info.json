@@ -1,0 +1,27 @@
+{
+  "blockchain": "etherscan",
+  "brief": "二次方挖矿项目",
+  "intro": "首个二次方挖矿项目，牛逼plus++",
+  "totalsupply": "5000000",
+  "audit_agency": "知道创宇",
+  "audit_report": "http://zhidaochuangyu.org/bee2.pdf",
+  "website": "https://bee2.finance",
+  "mining": [
+    {
+      "pool": "WETH",
+      "url": "https://bee2.finance/WETH",
+      "amout": "200000"
+    },
+    {
+      "pool": "CRV",
+      "url": "https://bee2.finance/CRV",
+      "amout": "200000"
+    }
+  ],
+  "resource": {
+    "twitter": "https://twitter.com/bee2_finance",
+    "discord": "https://discord.com/bee2_finance",
+    "facebook": "https://facebook.com/bee2_finance"
+  }
+}
+  
