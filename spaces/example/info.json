@@ -11,7 +11,7 @@
     {
       "pool": "Example-ETH UNI-V2 LP",
       "url": "https://example.finance/home",
-      "amout": "4200000" //填写矿量
+      "amout": "4200000"
     }
   ],
   "resource": {
