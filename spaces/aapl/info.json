@@ -1,0 +1,27 @@
+{
+  "key": "aapl",
+  "blockchain": "etherscan",
+  "brief": "弹性稳定币，亚洲的Based",
+  "intro": "The AAPL Protocol is a DeFi game of chicken designed to shake out weak hands and yield the highest gains for those who understand the rules. The $AAPL token combines a simplified version of Ampleforth’s economic policy with YFI’s distribution mechanism. The result is a post-modern economic game that continually resets. The barrier of entry is fair and balanced for all participants.The only rule of AAPL is that no one can change the rules. There are no owners, and because the private keys have been burned, the contracts cannot be changed. This makes an exit scam impossible.",
+  "totalsupply": "10万",
+  "audit_agency": "知道创宇",
+  "audit_report": "https://apples-cash.oss-cn-hongkong.aliyuncs.com/files/AAPL%20Smart%20Contract%20Audit%20Report%20-%20Pool0.pdf",
+  "website": "https://www.applescash.com/",
+  "mining": [
+    {
+      "pool": "SUSD",
+      "url": "https://www.applescash.com/stake/pool?pool_id=0",
+      "amout": "25000"
+    },
+    {
+      "pool": "$AAPL-ETH",
+      "url": "https://www.applescash.com/stake/pool?pool_id=1",
+      "amout": "75000"
+    }
+  ],
+  "resource": {
+    "twitter": "https://twitter.com/ApplescashC",
+    "facebook":"https://www.facebook.com/applescash/"
+  }
+}
+
