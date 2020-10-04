@@ -1,0 +1,49 @@
+{
+  "key": "equalizer",
+  "blockchain": "etherscan",
+  "brief": "An AMM DEX with equal and self-adjusting governance token distribution.",
+  "intro": "一个基于公平且自动调整的治理代币分发的AMM DEX",
+  "audit_agency": "NCC",
+  "audit_report": "审计地址",
+  "website": "https://equalizer.fi/",
+  "mining": [
+    {
+      "pool": "ETH/USDT",
+      "url": "https://etherscan.io/address/0x92b01d1dda5224cc290f0c3ae356c2096e0c1c0e"
+    },
+    {
+      "pool": "ETH/QKC",
+      "url": "https://etherscan.io/address/0x738664883d16331515a4e783fc72eda8a24d825f"
+    },
+    {
+      "pool": "ETH/SNX",
+      "url": "https://etherscan.io/address/0x8fb15b195b387a24561c2f70e8d3aaa93b6b4b0a"
+    },
+    {
+      "pool": "ETH/UNI",
+      "url": "https://etherscan.io/address/0x0a15b638b313b8e3077e8e5d496e7be653a4d691"
+    },
+    {
+      "pool": "ETH/YFI",
+      "url": "https://etherscan.io/address/0x94127c95a3f868cba313e6779dc22a3cf4f09759"
+    },
+    {
+      "pool": "ETH/LINK",
+      "url": "https://etherscan.io/address/0xce9cdb8cac8a0c8bab3f99edfeddc644bf723f9c"
+    },
+    {
+      "pool": "ETH/LEND",
+      "url": "https://etherscan.io/address/0x4dfbc9ef432421c40fd419e754ff8f6de6453fe2"
+    },
+    {
+      "pool": "ETH/EQL",
+      "url": "https://etherscan.io/address/0xf62b81140ed2997a21a5c70bff9c0c1f99c518a4"
+    }
+  ],
+  "resource": {
+    "twitter": "https://twitter.com/Equalizer_Fi",
+    "medium": "https://medium.com/@EqualizerFinance",
+    "telegram": "https://t.me/equalizer_fi"
+  }
+}
+  
