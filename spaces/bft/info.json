@@ -1,8 +1,8 @@
 {
   "key": "bft",
   "blockchain": "etherscan",
-  "brief": "Berkshire.Finance lets you support DeFi ecosystems with a 100% community operated AMM and a commitment to providing liquidity to multiple DEXs and the best new projects.",
-  "intro": "Berkshire.Finance lets you support DeFi ecosystems with a 100% community operated AMM and a commitment to providing liquidity to multiple DEXs and the best new projects.",
+  "brief": "获取DeFi加密货币的平台",
+  "intro": "BFT是完全去中心化的AMM模式DEX，通过BFT可以为最优秀的DeFi提供流动性。",
   "audit_agency": "知道创宇",
   "audit_report": "https://github.com/BFTFinance/BFTFinanceContracts/blob/master/KNOWNSEC%20-%20Berkshire.Finance%20-%20Smart%20contract%20audit%20report.pdf",
   "website": "https://berkshire.finance",
