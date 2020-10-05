@@ -1,8 +1,8 @@
 {
   "key": "debear",
   "blockchain": "etherscan",
-  "brief": "DeBear is a NFT trading protocol co-created with trendy artists.",
-  "intro": "DeBear is a NFT trading protocol co-created with trendy artists. The goal is to enable each trendy artist to freely publish their design, and each individual to participate and earn rewards with values interchangeable across different blockchain protocols.",
+  "brief": "由潮玩艺术家们联合创建的NFT平台.",
+  "intro": "DeBear是潮玩艺术家们创立的NFT交易协议。每位艺术家都能自由发布自己的设计NFT，并进行交易。",
   "totalsupply": "46200",
   "audit_agency": "知道创宇",
   "audit_report": "https://pdf.maitube.com/pdf/?e=agaL370RvOHeMa",
